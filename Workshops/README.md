@@ -1,2 +1,2 @@
 # Workshops
-Repository the PCD 2019 workshop material
+Repository for the PCD 2019 workshop material
