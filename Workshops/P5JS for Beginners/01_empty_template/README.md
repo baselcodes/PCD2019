@@ -1,2 +1,2 @@
 # P5.js Starter Template
-here comes the description
+This is a "empty" starter template for you to go creative 🌈
